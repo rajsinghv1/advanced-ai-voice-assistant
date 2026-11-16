@@ -1,0 +1,24 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Private data and test files
+data/
+sample.txt
+uploads/
+
+# Generated vector database
+faiss_index/
+vectorstore/
+
+# IDE and logs
+.vscode/
+.idea/
+*.logfrontend/streamlit_app_backup.py
