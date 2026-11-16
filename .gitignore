@@ -22,3 +22,4 @@ vectorstore/
 .vscode/
 .idea/
 *.logfrontend/streamlit_app_backup.py
+frontend/streamlit_app_backup.py
